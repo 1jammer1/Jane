@@ -1,2 +1,8 @@
 # Jane
-A server-client local AI assistant
+Fuck you
+
+
+> [!WARNING]
+> still in development
+
+
