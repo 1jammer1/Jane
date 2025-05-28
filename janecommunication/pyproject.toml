@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "janecommunication"
+version = "1"
+requires-python =  "<=3.1"
+
+[project.dependencies]
+requests = "*"
+flask = "*"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["*.py"]
